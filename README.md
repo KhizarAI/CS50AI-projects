@@ -9,6 +9,7 @@ Warning : before visiting this repo files, please read about [CS50's Academic Ho
 [CS50AI on Harvard's website](https://cs50.harvard.edu/ai/2023/) and 
 [CS50AI on edX](https://cs50.edx.org/ai)
 
+![CS50AI](https://github.com/KhizarAI/CS50AI-projects/assets/105581015/aa7f521c-a3ef-4715-9713-e209d0d53f34)
 
 ### Week 0 - Search
 The initial module covered traditional algorithms aimed at finding preferrably optimal or near-optimal ways of completing a task that can be converted to a problem of "finding a path between two points pertaining minimal cost incurred".
